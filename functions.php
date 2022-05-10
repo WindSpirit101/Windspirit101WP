@@ -2,10 +2,10 @@
 
 ///function myFunction(){
 
-}
+///}
 ///myfunction(){
 
-}
+///}
 
 function enqueue_my_styles_and_scripts(){
 
